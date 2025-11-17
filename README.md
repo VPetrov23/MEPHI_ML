@@ -73,7 +73,7 @@
 
 ## 3. Результат
 
-Ноутбук с решением: [Project_1.ipynb](https://github.com/VPetrov23/MEPHI_ML/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20HeadHunter.ipynb).
+Ноутбук с решением: [Анализ данных HeadHunter.ipynb](https://github.com/VPetrov23/MEPHI_ML/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20HeadHunter.ipynb).
 
 
 [↑ К содержанию](#содержание)
